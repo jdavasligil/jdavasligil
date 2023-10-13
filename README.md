@@ -28,7 +28,6 @@
 <a href="https://kit.svelte.dev/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/svelte/svelte-original.svg" alt="svelte" width="40" height="40"/> </a>
 <a href="https://go.dev/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original-wordmark.svg" alt="go" width="40" height="40"/> </a>
 <a href="https://www.sqlite.org/index.html" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" alt="sqlite" width="40" height="40"/> </a>
-
 <a href="https://vercel.com" target="_blank" rel="noreferrer"> <img src="https://static.wikia.nocookie.net/logopedia/images/a/a7/Vercel_favicon.svg/revision/latest?cb=20221026155821" alt="vercel" width="40" height="40"/> </a>
 <a href="https://www.w3schools.com/c/c_intro.php" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a>
 <a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer"><img src="https://rustacean.net/assets/rustacean-orig-noshadow.svg" alt="rust" width="40" height="40"/></a>
