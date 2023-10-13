@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jdavasligil&theme=onedark" alt="jdavasligil" /></a> </p>
 
-- 🎥 I’m currently building: **Ruin, a 3D graphics software renderer.**
+- 🎥 I’m currently building: **A Transportation Management System (Private)**
 
-- 🌱 I’m currently learning: **Golang, System Design, Fullstack Development**
+- 🌱 I’m currently learning: **Golang, Svelte, SQL, System Design, Fullstack Development**
 
 - 🎥 I’m building next: **Procedurally generated 3D dungeon crawler on the Web.**
 
@@ -15,7 +15,7 @@
 - 🤝 I’m looking for help with [Ruin](https://github.com/Vets-Who-Code)
 -->
 
-- 💬 Ask me about **Git, Ruin, Hearken, Game Development**
+- 💬 Ask me about **Git, 3D Graphics, Game Development, Svelte, Web Development**
 
 <p align="left">
 </p>
