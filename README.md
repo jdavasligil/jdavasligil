@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning: **Golang, Svelte, SQL, System Design, Fullstack Development**
 
-- 🎥 I’m building next: **Procedurally generated 3D dungeon crawler on the Web.**
+- 🎥 I’m building next: **Procedurally generated 2D dungeon crawler on the Web.**
 
 <!--
 - 🤝 I’m looking for help with [Ruin](https://github.com/Vets-Who-Code)
