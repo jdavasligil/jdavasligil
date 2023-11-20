@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Jaedin Davasligil</h1>
+<h1 align="center">Hi 👋, I'm Jae</h1>
 <h3 align="center">Tutor at University Tutoring and Freelance Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jdavasligil&label=Profile%20views&color=0e75b6&style=flat" alt="jdavasligil" /> </p>
