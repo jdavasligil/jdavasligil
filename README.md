@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Jae</h1>
-<h3 align="center">Tutor at University Tutoring and Freelance Developer</h3>
+<h3 align="center">Tutor at University Tutoring and Programmer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jdavasligil&label=Profile%20views&color=0e75b6&style=flat" alt="jdavasligil" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jdavasligil&theme=onedark" alt="jdavasligil" /></a> </p>
 
-- 🎥 I’m currently building: **A Transportation Management System (Private)**
+- 🎥 I’m currently building: **Rogue-JS, a procedurally generated 2D dungeon crawler on the Web.**
 
 - 🌱 I’m currently learning: **Golang, Svelte, SQL, System Design, Fullstack Development**
 
-- 🎥 I’m building next: **Procedurally generated 2D dungeon crawler on the Web.**
+- 🎥 I’m building next: **No idea!**
 
 <!--
 - 🤝 I’m looking for help with [Ruin](https://github.com/Vets-Who-Code)
