@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jdavasligil&theme=onedark" alt="jdavasligil" /></a> </p>
 
-- 🎥 I’m currently building: **Rogue-JS, a procedurally generated 2D dungeon crawler on the Web.**
+- 🎥 I’m currently building: **Hearken, a coop horror survival 3D dungeon game.**
 
 - 🌱 I’m currently learning: **Golang, Svelte, SQL, System Design, Fullstack Development**
 
