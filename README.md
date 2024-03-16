@@ -5,17 +5,17 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jdavasligil&theme=onedark" alt="jdavasligil" /></a> </p>
 
-- 🎥 I’m currently building: **Hearken, a coop horror survival 3D dungeon game.**
+- 🎥 I’m currently building: **Metropol, an online text-based MMORPG (MUD).**
 
-- 🌱 I’m currently learning: **Golang, Svelte, SQL, System Design, Fullstack Development**
+- 🌱 I’m currently learning: **Golang, SQL, System Design, Fullstack Development**
 
-- 🎥 I’m building next: **No idea!**
+- 🎥 I’m building next: **I'd like to finish my software renderer.**
 
 <!--
 - 🤝 I’m looking for help with [Ruin](https://github.com/Vets-Who-Code)
 -->
 
-- 💬 Ask me about **Git, 3D Graphics, Game Development, Svelte, Web Development**
+- 💬 Ask me about **Weird math, Metropol, RPGs**
 
 <p align="left">
 </p>
