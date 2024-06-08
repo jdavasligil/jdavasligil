@@ -18,6 +18,9 @@
 - 💬 Ask me about **Mathematical Modeling, Metropol, Roleplaying Games**
 
 <p align="left">
+I am an apprentice of the arcane arts. Wise in the ways of Unix. I seek mastery over the beeps and boops. 
+&nbsp;
+My favorite games are Rollercoaster Tycoon 2, Heroes of Might and Magic III, The Elder Scrolls: Daggerfall, and Planescape: Torment.
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -38,8 +41,6 @@
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jdavasligil&theme=onedark&show_icons=true&locale=en&layout=compact" alt="jdavasligil" /></p>
-
-<a href="https://belindamoffit.com/">Profile Art: Belinda Moffit</a>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jdavasligil&theme=onedark&show_icons=true&locale=en" alt="jdavasligil" /></p>
 
