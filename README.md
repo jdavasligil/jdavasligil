@@ -19,7 +19,8 @@
 
 <p align="left">
 I am an apprentice of the arcane arts. Wise in the ways of Unix. I seek mastery over the beeps and boops. 
-&nbsp;
+</p>
+<p>
 My favorite games are Rollercoaster Tycoon 2, Heroes of Might and Magic III, The Elder Scrolls: Daggerfall, and Planescape: Torment.
 </p>
 
