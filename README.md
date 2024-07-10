@@ -1,28 +1,21 @@
-<h1 align="center">Greetings traveler 🧙. Some call me... Jae?</h1>
-<h3 align="center">Chicken Chaser</h3>
+<h1 align="center">Greetings traveler 🧙. My name is Jae.</h1>
+<h3>Programmer | Teacher | Game Designer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jdavasligil&label=Profile%20views&color=0e75b6&style=flat" alt="jdavasligil" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jdavasligil&theme=onedark" alt="jdavasligil" /></a> </p>
 
-- 🎥 I’m currently building: **Metropol, an online text-based MMORPG (MUD).**
+- 🎥 I’m currently building: **War Is Fun (Untitled), a build-and-shoot inspired *very serious* sandbox war game.**
 
-- 🌱 I’m currently learning: **Golang, SQL, System Design, Fullstack Development**
+- 🌱 I’m currently learning: **C++, Computer Graphics, Game Engine Design**
 
-- 🎥 I’m building next: **I have this idea... (where have I heard that before?) adventure awaits!**
+- 🎥 I’m building next: **The Quick And The Dead, a western quickdraw game for the Playdate console.**
 
 <!--
 - 🤝 I’m looking for help with [Ruin](https://github.com/Vets-Who-Code)
 -->
 
-- 💬 Ask me about **Mathematical Modeling, Metropol, Roleplaying Games**
-
-<p align="left">
-I am an apprentice of the arcane arts. Wise in the ways of Unix. I seek mastery over the beeps and boops. 
-</p>
-<p>
-My favorite games are Rollercoaster Tycoon 2, Heroes of Might and Magic III, The Elder Scrolls: Daggerfall, and Planescape: Torment.
-</p>
+- 💬 Ask me about **Mathematical Modeling, Game Development, Roleplaying Games**
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
