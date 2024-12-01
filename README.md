@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jdavasligil&theme=onedark" alt="jdavasligil" /></a> </p>
 
-- 🎥 I’m currently building: **War Is Fun (Untitled), a build-and-shoot inspired *very serious* sandbox war game.**
+- 🎥 I’m currently building: **Easy Wiki - A static wiki generator for personal use.**
 
-- 🌱 I’m currently learning: **C++, Computer Graphics, Game Engine Design**
+- 🌱 I’m currently learning: **Computer Graphics, Game Engine Design**
 
-- 🎥 I’m building next: **The Quick And The Dead, a western quickdraw game for the Playdate console.**
+- 🎥 I’m building next: **Untitled Roleplaying Game Engine using Trimetric Perspective**
 
 <!--
 - 🤝 I’m looking for help with [Ruin](https://github.com/Vets-Who-Code)
