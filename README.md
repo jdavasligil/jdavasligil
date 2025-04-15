@@ -1,5 +1,4 @@
-<h1 align="center">Greetings traveler 🧙. My name is Jae.</h1>
-<h3>Programmer | Teacher | Game Designer</h3>
+<h1 align="center">Developer Profile</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jdavasligil&label=Profile%20views&color=0e75b6&style=flat" alt="jdavasligil" /> </p>
 
