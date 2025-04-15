@@ -4,11 +4,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jdavasligil&theme=onedark" alt="jdavasligil" /></a> </p>
 
-- 🎥 I’m currently building: **The Forsaken Realms, an open source pen-and-paper RPG.**
+- 🎥 I’m currently building: **Goblin Adventures, an interactive rogue-like Twitch bot.**
 
 - 🌱 I’m currently learning: **Computer Graphics, Game Engine Design**
-
-- 🎥 I’m building next: **Untitled Roleplaying Game Engine**
 
 <!--
 - 🤝 I’m looking for help with [Ruin](https://github.com/Vets-Who-Code)
