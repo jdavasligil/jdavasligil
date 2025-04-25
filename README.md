@@ -4,11 +4,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jdavasligil&theme=onedark" alt="jdavasligil" /></a> </p>
 
-- 🎥 I’m currently building: **Goblin Adventures, an interactive rogue-like Twitch bot.**
+- 🎥 I’m currently building: **[Goblin Adventures](https://github.com/jdavasligil/goblin-adventures), an interactive rogue-like Twitch bot.**
 
 - 🌱 I’m currently learning: **Computer Graphics, Game Engine Design**
 
-- 🤝 I’m currently contributing:  **Elora Chat, a Multi-Stream chat client.**
+- 🤝 I’m currently contributing:  **[Elora Chat](https://github.com/jdavasligil/elora-chat), a Multi-Stream chat client.**
 
 <!--
 - 🤝 I’m looking for help with [Ruin](https://github.com/Vets-Who-Code)
