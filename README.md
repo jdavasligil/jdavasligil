@@ -8,6 +8,8 @@
 
 - 🌱 I’m currently learning: **Computer Graphics, Game Engine Design**
 
+- 🤝 I’m currently contributing:  **Elora Chat, a Multi-Stream chat client.**
+
 <!--
 - 🤝 I’m looking for help with [Ruin](https://github.com/Vets-Who-Code)
 -->
